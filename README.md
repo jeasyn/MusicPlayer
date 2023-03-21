@@ -4,14 +4,14 @@
 
 # 项目结构
 
-<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/MusicPlayer/programStruct.jpg" alt="programStruct" style="zoom:67%;" />
+<img src="E:\ProgramData\Typora\typora-user-images\programStruct.jpg" alt="programStruct" style="zoom:67%;" />
 
 # 项目功能
 - 播放，暂停
 - 上一首，下一首切换
 - 调整音量（全局）
 
-<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/MusicPlayer/function.jpg" alt="function" style="zoom:80%;" />
+<img src="E:\ProgramData\Typora\typora-user-images\function.jpg" alt="function" style="zoom:67%;" />
 
 
 
@@ -51,18 +51,18 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/MusicPlayer/MusicView.jpg" alt="MusicView" style="zoom:67%;" />
+<img src="E:\ProgramData\Typora\typora-user-images\MusicView.jpg" alt="MusicView" style="zoom: 67%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/MusicPlayer/Play.jpg" alt="Play" style="zoom:67%;" />
+<img src="E:\ProgramData\Typora\typora-user-images\Play.jpg" alt="Play" style="zoom:67%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/MusicPlayer/AddSongTip.jpg" alt="AddSongTip" style="zoom:67%;" />
+<img src="E:\ProgramData\Typora\typora-user-images\AddSongTip.jpg" alt="AddSongTip" style="zoom:67%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/MusicPlayer/ListView.jpg" alt="ListView" style="zoom:67%;" />
+<img src="E:\ProgramData\Typora\typora-user-images\ListView.jpg" alt="ListView" style="zoom:67%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/MusicPlayer/songDeletedOrMove.jpg" alt="songDeletedOrMove" style="zoom:67%;" />
+<img src="E:\ProgramData\Typora\typora-user-images\songDeletedOrMove.jpg" alt="songDeletedOrMove" style="zoom:67%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/MusicPlayer/ListViewShowSong.jpg" alt="ListViewShowSong" style="zoom:67%;" />
+<img src="E:\ProgramData\Typora\typora-user-images\ListViewShowSong.jpg" alt="ListViewShowSong" style="zoom:67%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/MusicPlayer/SongChoose.jpg" alt="SongChoose" style="zoom:67%;" />
+<img src="E:\ProgramData\Typora\typora-user-images\SongChoose.jpg" alt="SongChoose" style="zoom:67%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/xialijuan0/ImageRepo@master/MusicPlayer/ChangeVolume.jpg" alt="ChangeVolume" style="zoom:67%;" />
+<img src="E:\ProgramData\Typora\typora-user-images\ChangeVolume.jpg" alt="ChangeVolume" style="zoom:67%;" />
