@@ -11,7 +11,7 @@ import java.util.Random;
 
 /**
  * 上一首|下一首按钮监听
- * Created by xialijuan on 21/10/2021.
+ * Created by xialijuan on 2021/10/21.
  */
 public class ChangSongBtnListener implements ActionListener {
 
