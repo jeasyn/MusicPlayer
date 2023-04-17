@@ -10,9 +10,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  * 列表里MP3歌曲点击监听（随机选中）
- *
- * @author xialijuan
- * @date 2021/10/18
+ * Created by xialijuan on 18/10/2021.
  */
 public class SongListener implements ListSelectionListener {
 

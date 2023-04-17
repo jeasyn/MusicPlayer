@@ -8,8 +8,7 @@ import java.awt.event.ActionListener;
 
 /**
  * 列表按钮监听
- * @author xialijuan
- * @date 2021/10/17
+ * Created by xialijuan on 17/10/2021.
  */
 public class ListListener implements ActionListener {
 

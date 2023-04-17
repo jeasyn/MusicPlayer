@@ -16,9 +16,7 @@ import java.util.HashMap;
 
 /**
  * 音乐播放器主界面
- *
- * @author xialijuan
- * @date 2021/10/12
+ * Created by xialijuan on 12/10/2021.
  */
 public class MusicView extends Application {
 

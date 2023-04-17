@@ -11,9 +11,7 @@ import java.util.Vector;
 
 /**
  * 列表界面
- *
- * @author xialijuan
- * @date 2021/10/17
+ * Created by xialijuan on 17/10/2021.
  */
 public class ListView {
 
