@@ -17,9 +17,7 @@ import java.util.logging.Logger;
 
 /**
  * Song对象的API
- *
- * @author xialijuan
- * @date 2021/10/21
+ * Created by xialijuan on 21/10/2021.
  */
 public class SongUtil {
 

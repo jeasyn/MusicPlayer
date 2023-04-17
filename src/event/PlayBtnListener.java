@@ -12,9 +12,7 @@ import java.util.Random;
 
 /**
  * 暂停|播放按钮监听
- *
- * @author xialijuan
- * @date 2021/10/23
+ * Created by xialijuan on 23/10/2021.
  */
 public class PlayBtnListener implements ActionListener {
 

@@ -7,9 +7,7 @@ import java.util.Vector;
 
 /**
  * 处理ListView的数据
- *
- * @author xialijuan
- * @date 2021/10/17
+ * Created by xialijuan on 17/10/2021.
  */
 public class ListUtil {
 

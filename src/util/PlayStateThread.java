@@ -5,9 +5,7 @@ import view.MusicView;
 
 /**
  * 暂停|播放|停止线程
- *
- * @author xialijuan
- * @date 2021/10/25
+ * Created by xialijuan on 25/10/2021.
  */
 public class PlayStateThread extends Thread {
     /**

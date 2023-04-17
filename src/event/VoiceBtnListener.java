@@ -12,9 +12,7 @@ import java.awt.event.MouseEvent;
 
 /**
  * 声音按钮监听
- *
- * @author xialijuan
- * @date 2021/10/25
+ * Created by xialijuan on 25/10/2021.
  */
 public class VoiceBtnListener extends MouseAdapter implements ChangeListener {
 

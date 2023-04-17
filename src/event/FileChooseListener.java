@@ -13,9 +13,7 @@ import java.io.File;
 
 /**
  * MP3文件选择监听
- *
- * @author xialijuan
- * @date 2021/10/19
+ * Created by xialijuan on 19/10/2021.
  */
 public class FileChooseListener extends MouseAdapter {
 

@@ -1,8 +1,7 @@
 package entity;
 
 /**
- * @author xialijuan
- * @date 2021/10/12
+ * Created by xialijuan on 12/10/2021.
  */
 public class Song {
     /**
