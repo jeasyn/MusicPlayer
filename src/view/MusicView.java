@@ -16,7 +16,7 @@ import java.util.HashMap;
 
 /**
  * 音乐播放器主界面
- * Created by xialijuan on 12/10/2021.
+ * Created by xialijuan on 2021/10/12.
  */
 public class MusicView extends Application {
 
@@ -117,6 +117,7 @@ public class MusicView extends Application {
 
     /**
      * 弹出提示
+     *
      * @param flag 弹出不同种类提示
      */
     public static void addSongTip(int flag) {
